@@ -1,2 +1,0 @@
-# FreeRTOSv10.2.1
-FreeRTOSv10.2.1
